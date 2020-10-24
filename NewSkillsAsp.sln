@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewSkillsAsp", "NewSkillsAs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewSkillsAsp.Tests", "NewSkillsAsp.Tests\NewSkillsAsp.Tests.csproj", "{94E02900-7898-41C0-814C-F6B1E24D8918}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseLayer", "DataBaseLayer\DataBaseLayer.csproj", "{F2C20B3C-077E-43D2-B0A6-E02340320FD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{94E02900-7898-41C0-814C-F6B1E24D8918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94E02900-7898-41C0-814C-F6B1E24D8918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94E02900-7898-41C0-814C-F6B1E24D8918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C20B3C-077E-43D2-B0A6-E02340320FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C20B3C-077E-43D2-B0A6-E02340320FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C20B3C-077E-43D2-B0A6-E02340320FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C20B3C-077E-43D2-B0A6-E02340320FD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
